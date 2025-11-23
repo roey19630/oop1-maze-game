@@ -1,5 +1,3 @@
----
-
 # 🐭 OOP1 Maze Game – Mouse vs Cats
 
 A simple console-based maze game written in C++ as part of the OOP1 course.
